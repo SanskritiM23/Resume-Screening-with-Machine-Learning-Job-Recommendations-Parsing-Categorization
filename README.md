@@ -2,7 +2,7 @@
 
 This project demonstrates the power of machine learning (ML) in automating and enhancing the resume screening process. It leverages Natural Language Processing (NLP) to extract key information from resumes and utilizes ML algorithms for categorization and job recommendations.
 
-![UI](resume_app.png)
+![UI](resume app.png)
 
 ## Key Features
 
